@@ -175,6 +175,6 @@ closeBtn.addEventListener('click', () => {
 ## OUTPUT:
 ![alt text](<Screenshot (79).png>)
 ![alt text](<Screenshot (80).png>)
-![alt text](<Screenshot (80)-1.png>)
+![alt text](<Screenshot (81).png>)
 ## RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
